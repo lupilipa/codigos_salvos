@@ -1,0 +1,1 @@
+<a href=“index.php?id=02;”> Cadastro</a>
